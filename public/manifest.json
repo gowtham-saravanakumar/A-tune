@@ -1,0 +1,12 @@
+{
+  "name": "A-tune",
+  "short_name": "A-tune",
+  "description": "Search and play music from YouTube with shuffle and radio-style autoplay.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
